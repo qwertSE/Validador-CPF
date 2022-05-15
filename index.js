@@ -23,7 +23,7 @@ function validacao(valor) {
       valido = false;
     }
   }
-
+  //Verifica se é composto somente por numeros
   regex = /\d[0-9]{10,10}/;
   let result = valor.match(regex);
   let isNumbers = result != null ? true : false;
