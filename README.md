@@ -1,1 +1,1 @@
-# gama-no-javascript-basico
+# Projeto em javascript do treinamento da Gama-Academy
